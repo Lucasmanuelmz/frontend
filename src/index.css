@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-tiny-editor .tox-editor-container {
+  border: 2px solid #4a90e2;
+  border-radius: 8px;
+}
+
+.custom-tiny-editor .tox-tinymce {
+  border: none;
+}
+
+body {
+  background-color: #e7e5eb;
+}

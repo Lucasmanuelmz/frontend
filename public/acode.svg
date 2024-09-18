@@ -1,0 +1,6 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="18" y="40" font-family="Arial" font-size="40" font-weight="bold">
+    <tspan fill="darkblue">a</tspan>
+    <tspan fill="#3B82F6">code</tspan>
+  </text>
+</svg>
